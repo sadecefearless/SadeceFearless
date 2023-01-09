@@ -34,7 +34,7 @@
 
 <h1 align="center"> <img src="https://cdn.discordapp.com/emojis/842491787955142656.gif?size=128&quality=lossless" width="30px"> My Discord Account & Friend Discord Account <img src="https://cdn.discordapp.com/emojis/842491787955142656.gif?size=128&quality=lossless" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/627460900978163712?hideDiscrim=true)](https://discord.com/users/627460900978163712)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:627460900978163712)](https://discord.com/users/:627460900978163712)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/816685775629320192?hideDiscrim=true)](https://discord.com/users/816685775629320192)
 
 <h1 align="center"> <img src="https://cdn.discordapp.com/emojis/750393876077871197.webp?size=128&quality=lossless" width="30px"> Github Stats <img src="https://cdn.discordapp.com/emojis/750393876077871197.webp?size=128&quality=lossless" width="30px"> </h1>
